@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-
+//comentariu github
 class Integ{
 	public int value ;
 	public Integ(){
